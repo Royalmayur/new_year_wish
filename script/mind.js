@@ -7,7 +7,7 @@ const openCard = () => {
     let photoCube = document.querySelector('.photoCube');
     let wishes = document.querySelector('.wishes');
 
-    let audioWish = new Audio('/music//hapy_new_year.mp3')
+    let audioWish = new Audio('music//hapy_new_year.mp3')
 
     audioWish.play();
 
